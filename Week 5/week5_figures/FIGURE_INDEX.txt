@@ -1,0 +1,31 @@
+WEEK 5 FIGURE INDEX
+
+Week 1 exploratory analysis
+01_monthly_charges.png: distribution of monthly charges.
+02_churn_distribution.png: counts of churned and stayed customers.
+03_correlation_heatmap.png: correlations among numeric variables.
+
+Week 2 data visualization and storytelling
+week2_01_contract_churn.png: churn rates by contract category.
+week2_02_tenure_churn.png: tenure distributions by churn outcome.
+week2_03_monthly_charges_churn.png: monthly charge distributions by churn outcome.
+week2_04_payment_churn.png: churn rates by payment method.
+week2_05_internet_churn.png: churn rates by internet service.
+
+Week 3 statistical analysis
+week3_01_contract_churn_rates.png: observed churn rates by contract with intervals.
+week3_02_monthly_charges_by_churn.png: monthly charges by churn outcome.
+week3_03_monthly_charge_distributions.png: monthly charge distributions by churn outcome.
+
+Week 4 model evaluation
+week4_01_confusion_matrix.png: held-out test-set classifications.
+week4_02_roc_curve.png: true-positive versus false-positive rates by threshold.
+
+Week 5 integrated analysis script generates four additional figures:
+week5_01_contract_churn_rates.png, week5_02_monthly_charges_by_churn.png,
+week5_03_model_confusion_matrix.png, and week5_04_model_roc_curve.png.
+
+The Jupyter notebook saves its own run outputs:
+week5_churn_counts.png, week5_contract_churn_rates.png,
+week5_monthly_charges_by_churn.png, week5_model_confusion_matrix.png,
+and week5_model_roc_curve.png.
